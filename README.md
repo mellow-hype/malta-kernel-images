@@ -1,3 +1,3 @@
 # MIPS Malta Linux Kernel Images
 
-Big-endian MIPS malta images bootable with QEMU.
+MIPS 2.6.3x Linux kernel images bootable with QEMU.
